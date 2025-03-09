@@ -1,0 +1,6 @@
+Flask
+mysql-connector-python
+twilio
+face-recognition
+opencv-python
+PyQt5
