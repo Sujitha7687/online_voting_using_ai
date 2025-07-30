@@ -3,8 +3,7 @@
 ## 🚀 Project Description
 A **secure online voting system** using:
 - **Blockchain** for securing votes
-- **Face Authentication** for voter verification
-- **OTP Verification using the stored phone number**
+- **Iris Authentication** for voter verification
 - **MySQL for user and vote data**
 - **Modern PyQt5 UI**
 
